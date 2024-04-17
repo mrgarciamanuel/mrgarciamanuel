@@ -3,7 +3,7 @@
 Software Developer at [Sincelo](https://www.sincelo.pt);<br>
 Student of a master's in software engineering at [FEUP](https://www.up.pt/portal/pt/feup/);<br>
 Committed to developing solutions centered on user experience;<br>
-Owner of a fluffy dog called Björn;<br>
+<br>
 
 <br><div align="center">
   <a href="https://github.com/mrgarciamanuel">
