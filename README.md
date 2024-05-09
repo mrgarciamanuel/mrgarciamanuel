@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Developer at [Sincelo](https://www.sincelo.pt);<br>
+Software Developer<br>
 Student of a master's in software engineering at [FEUP](https://www.up.pt/portal/pt/feup/);<br>
 Committed to developing solutions centered on user experience;<br>
 <br>
