@@ -38,4 +38,20 @@ Committed to developing solutions centered on user experience;<br>
   <img  alt="Flutter" src ="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </div>
 
+### Database Administration
+<div>
+  <img  alt="SQL Server" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div>
+
+### Projects and contributions
+<div>
+  <ul>
+    <li><a href='https://pub.dev/packages/feup_plotter'>Feup-plotter</a></li>
+    <li><a href='https://github.com/FabioMiguel2000/Acme-Caf-Order-System'>Cafe-Order-System</a></li>
+    <li><a href='https://plugins.krajee.com/file-input#google_vignette'>Bootstrap File Input</a></li>
+    <li><a href='https://github.com/mrgarciamanuel/My-Stocks-Analysis-System'>My-Stocks-Analysis-System</a></li>    
+  </ul>
+</div>
+
+
 
