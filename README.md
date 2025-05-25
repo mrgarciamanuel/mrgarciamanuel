@@ -40,7 +40,7 @@ Committed to developing solutions centered on user experience;<br>
 
 ### Database Administration
 <div>
-  <img  alt="SQL Server" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img  alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927"/>
 </div>
 
 ### Projects and contributions
